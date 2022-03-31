@@ -1,5 +1,6 @@
 #sorry guys i need to make a mess bc it's my homework from the course "how to use git"
 #hope ur not mad at me
+#tbh its so boring
 <p align="center">
     <a> <img src=.assets/logo.png></a>
     <br />
